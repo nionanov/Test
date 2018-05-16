@@ -1,0 +1,3 @@
+*.pyc
+other.py
+/my_runs/*
